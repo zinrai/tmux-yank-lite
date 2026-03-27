@@ -57,7 +57,7 @@ set -g @plugin 'zinrai/tmux-yank-lite'
 
 If you're using this plugin in a non-X environment (like through SSH), you'll need to set up a clipboard listener on the host machine. Here's how to do it:
 
-* Windows: [echoclip](https://github.com/zinrai/echoclip)
+* Windows: [echoclip-ps](https://github.com/zinrai/echoclip-ps)
 * macOS: [echoclip-daemon](https://github.com/zinrai/echoclip-daemon)
 
 ## Troubleshooting
